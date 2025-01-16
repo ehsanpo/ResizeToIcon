@@ -61,6 +61,10 @@ background: { r: 255, g: 255, b: 255, alpha: 0 },
 - `r`, `g`, `b` define the red, green, and blue components of the background color.
 - `alpha` defines the transparency (0 for fully transparent, 1 for fully opaque).
 
+## check Icon
+
+you can use https://redketchup.io/icon-editor to check the created icon.
+
 ## Dependencies
 
 - [`sharp`](https://www.npmjs.com/package/sharp): Image processing library.
